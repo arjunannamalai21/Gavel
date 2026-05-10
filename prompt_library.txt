@@ -1,0 +1,712 @@
+═══════════════════════════════════════════════════════════════
+GAVEL — AI LEGAL PROMPT LIBRARY (156 PROMPTS · 18 CATEGORIES)
+═══════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏠  RENT & HOUSING  (14 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Security deposit not returned
+   My landlord is refusing to return my security deposit after I vacated the property. It has been over 30 days. What are my legal rights and what action can I take under the Transfer of Property Act and Tamil Nadu Rent Control Act?
+
+2. Illegal rent hike
+   My landlord has suddenly increased my rent by 40% with no prior notice or agreement. Is this legal? What does the Rent Control Act say about permissible rent increases?
+
+3. Landlord cut electricity and water
+   My landlord has illegally disconnected my electricity and water supply to force me to vacate. What immediate legal action can I take? Is this a criminal offence?
+
+4. Eviction without court order
+   My landlord is trying to forcibly evict me without a court order or even a legal notice. What are my rights as a tenant? Can I call the police?
+
+5. No rent agreement signed
+   I am renting a house but there is no written rent agreement. What are the legal risks for me as a tenant? What documents can prove my tenancy?
+
+6. No rent receipt provided
+   My landlord refuses to give me rent receipts after taking cash payment every month. What are the legal implications and how can I protect myself?
+
+7. Landlord entered without permission
+   My landlord entered my rented flat without my consent and without prior notice. Is this a violation of my right to privacy and quiet enjoyment? What can I do?
+
+8. Property damage deduction dispute
+   My landlord is wrongfully deducting money from my security deposit claiming property damage that was already present when I moved in. How do I dispute this?
+
+9. Sub-letting dispute
+   My landlord is accusing me of illegal sub-letting. I have a paying guest living with me. What does the law say about sub-letting and PG arrangements?
+
+10. Lease agreement expired
+    My lease agreement expired 6 months ago but I am still living there and paying rent. What is my legal status and what rights do I have as a holdover tenant?
+
+11. Joint tenant rights
+    I am a joint tenant in a rented property. My co-tenant wants to leave. What happens to the tenancy and my rights?
+
+12. House in poor condition
+    My landlord refuses to carry out essential repairs — broken plumbing, leaking roof, no water supply. What legal action can I take to force repairs?
+
+13. Commercial property rent dispute
+    I rent a shop. My landlord is demanding rent hike threatening to shut down the shop. What are my rights as a commercial tenant?
+
+14. Landlord selling rented property
+    My landlord has sold the property I am renting to a new owner. Do I have to vacate? What are my rights when the property changes hands?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👷  LABOUR & EMPLOYMENT  (17 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+15. Salary not paid for months
+    My employer has not paid my salary for the past 3 months despite repeated requests. What legal action can I take under the Payment of Wages Act 1936? Where do I file a complaint?
+
+16. PF not deposited by employer
+    My employer deducts 12% PF from my salary every month but my EPFO passbook shows zero credit for the past 8 months. What are my options and who do I report this to?
+
+17. Wrongful termination
+    I was suddenly terminated from my job without any notice period or reason given. What are my rights under the Industrial Disputes Act? Can I demand reinstatement or compensation?
+
+18. No appointment letter given
+    My employer has never given me an appointment letter or any written employment contract despite 2 years of work. What are the legal implications and how do I protect myself?
+
+19. Unpaid overtime work
+    I regularly work 12-14 hour days but am paid only for 8 hours. My employer refuses to pay overtime wages. What does the Factories Act say and how do I claim overtime?
+
+20. Workplace sexual harassment (POSH)
+    I am facing sexual harassment at my workplace. My company has no Internal Complaints Committee as required by the POSH Act 2013. What immediate steps should I take?
+
+21. Maternity leave denied
+    My employer is refusing to grant me maternity leave saying I am not eligible. I have worked here for more than 80 days. What does the Maternity Benefit Act 1961 say?
+
+22. ESIC claim rejected
+    My ESIC medical claim was rejected by the hospital even though my employer deducts ESIC every month. How do I escalate this and what are my entitlements?
+
+23. Below minimum wage
+    I discovered I am being paid below the state minimum wage for my category of work. What is the legal remedy and which authority do I complain to?
+
+24. Forced to resign — constructive dismissal
+    My employer is making working conditions so unbearable that I am being forced to resign. Is this constructive dismissal? What are my legal rights?
+
+25. No gratuity paid after 5 years
+    I completed 5 years at a company and left but they are refusing to pay gratuity. What am I entitled to under the Payment of Gratuity Act and how do I claim it?
+
+26. Contract labour rights
+    I work as a contract/temporary worker placed by a contractor. What are my rights? Am I entitled to the same benefits as permanent employees?
+
+27. Company shut down without notice
+    My employer has suddenly shut down the company without giving any notice, severance pay or settlement. What legal recourse do I have?
+
+28. Non-compete clause enforceability
+    My employment contract has a non-compete clause preventing me from joining a competitor for 2 years. Is this enforceable under Indian law?
+
+29. Bonus not paid
+    My employer has not paid the annual bonus for this year despite profits. What does the Payment of Bonus Act say and am I legally entitled to it?
+
+30. Discrimination at workplace
+    I believe I am being discriminated against at work based on my religion/caste/gender and passed over for promotions unfairly. What legal options do I have?
+
+31. Notice period dispute
+    I resigned and served my notice period but my employer is refusing to relieve me and threatening to mark me absconding. What are my legal rights?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛒  CONSUMER RIGHTS  (15 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+32. Online product refund refused
+    I bought a defective product from an e-commerce platform. The seller is refusing a refund after 3 weeks of complaints. What are my rights under the Consumer Protection Act 2019?
+
+33. Builder flat possession delayed
+    My builder has delayed the possession of my flat by 3 years beyond the promised date. How do I file a RERA complaint and what compensation am I entitled to?
+
+34. Health insurance claim rejected
+    My health insurance company has rejected my claim citing a pre-existing condition exclusion that was never disclosed to me at the time of purchase. What can I do?
+
+35. Life insurance claim denied
+    My insurance company is denying my family member's life insurance claim after their death, citing non-disclosure. What legal remedies are available?
+
+36. Bank hidden charges
+    My bank has been charging me unexplained fees and reversed a UPI transaction without my consent. Which consumer forum should I approach and what is the process?
+
+37. New vehicle manufacturing defect
+    My brand new car has a manufacturing defect that the dealer acknowledges but refuses to replace under warranty. What are my legal options under consumer law?
+
+38. Medical negligence by doctor or hospital
+    I suffered serious harm due to a doctor's negligence during treatment. Can I file a consumer complaint against the hospital? What is the legal process and time limit?
+
+39. Misleading product advertisement
+    A company sold me a product based on false advertising — the product does not match what was claimed on TV and in brochures. Do I have a legal case?
+
+40. Food adulteration or contamination
+    I found a foreign object in packaged food I bought from a supermarket. Who do I complain to — FSSAI or consumer forum? What action can be taken?
+
+41. Telecom service poor quality
+    My telecom company is providing poor internet/call quality and refuses to fix it or let me exit without penalty. What can I do under TRAI regulations?
+
+42. Gym or coaching class refund
+    A gym or coaching institute is refusing to refund my advance fees after I cancelled within the agreed period. What are my rights under consumer law?
+
+43. Hotel or travel package fraud
+    A travel agency took full payment for a holiday package and delivered nothing as promised. What consumer forum do I approach and what evidence do I need?
+
+44. Electricity bill dispute
+    I received an abnormally high electricity bill that seems incorrect. How do I dispute it and what is the process under the Electricity Act 2003?
+
+45. Faulty home appliance
+    My home appliance broke down within the warranty period and the company is giving excuses and avoiding replacement. What are my rights and remedies?
+
+46. E-commerce platform liability
+    An e-commerce marketplace sold me a counterfeit product through a third-party seller. Can I hold the platform responsible under the Consumer Protection Act 2019?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👨‍👩‍👧  FAMILY LAW  (15 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+47. Mutual consent divorce process
+    My spouse and I agree to divorce. Explain the mutual consent divorce process under the Hindu Marriage Act — timeline, court appearances, and what documents we need.
+
+48. Contested divorce grounds
+    My spouse refuses to agree to a divorce. What are the legal grounds for a contested divorce in India? How long does the process usually take?
+
+49. Maintenance enforcement
+    My spouse has stopped paying court-ordered maintenance of ₹15,000 per month for the past 4 months. How do I enforce the order? Can I have them arrested?
+
+50. Child custody battle
+    I am going through a divorce and both parents want custody of our 6-year-old child. What factors does the court consider? What is the difference between legal and physical custody?
+
+51. Child support calculation
+    How is child support / maintenance for children calculated in India? What factors does the court consider under the Hindu Minority and Guardianship Act?
+
+52. Domestic violence — immediate help
+    I am facing domestic violence from my husband. What immediate legal protection can I get under the Domestic Violence Act 2005? Can I get him removed from the house?
+
+53. Property rights after spouse death
+    My husband passed away without leaving a will. We have a house and bank accounts. What is my legal share of the property under the Hindu Succession Act?
+
+54. Daughter inheritance rights
+    My father passed away and his relatives are denying my share in his property saying daughters cannot inherit. What does the Hindu Succession Amendment Act 2005 say about daughters' rights?
+
+55. Dowry harassment Section 498A
+    I am facing dowry demands and harassment from my husband and in-laws. What legal action can I take under Section 498A BNS and the Dowry Prohibition Act?
+
+56. Senior citizen maintenance rights
+    I am a 70-year-old senior citizen. My adult children have stopped providing financial support and want to throw me out of the house. What legal rights do I have under the Senior Citizens Act 2007?
+
+57. Adoption process India
+    My spouse and I want to legally adopt a child in India. Explain the adoption process under CARA, eligibility requirements, and the timeline.
+
+58. Muslim marriage and divorce law
+    I am Muslim. Explain my rights regarding marriage, talaq, and divorce under Muslim Personal Law and the Muslim Women Protection Act 2019.
+
+59. Inter-religion marriage rights
+    I want to marry someone from a different religion. How does the Special Marriage Act 1954 work? What is the process and what notice period is required?
+
+60. Guardianship of minor child
+    I want to become the legal guardian of my minor nephew as both his parents have passed away. What is the legal process under the Guardians and Wards Act 1890?
+
+61. Partition of family property
+    I want to legally partition our joint family property among siblings as we cannot agree on division. What is the legal process for a partition suit?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚖️  CRIMINAL LAW  (14 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+62. Rights when arrested by police
+    I have been arrested by police. What are my immediate legal rights under BNSS 2023? Can they detain me without telling me the charges? Can they deny me a lawyer?
+
+63. Police refusing to file FIR
+    I went to the police station to report a crime but they are refusing to register my FIR. What can I do? Can I file a Zero FIR at any station?
+
+64. Regular bail application
+    My family member was arrested and is in judicial custody. How do I apply for regular bail? What documents are needed and which court do I approach?
+
+65. Anticipatory bail application
+    I have reason to believe I may be falsely arrested in a dispute. How do I apply for anticipatory bail in advance? Which court handles this?
+
+66. Cheque bounce case Section 138 NI Act
+    A cheque issued to me by someone has bounced. What is the exact legal process under Section 138 of the Negotiable Instruments Act? What is the time limit to file?
+
+67. Cybercrime fraud complaint
+    I was defrauded online and lost ₹1,50,000. How do I file a formal cybercrime complaint? What is the national helpline number? What evidence should I preserve?
+
+68. Quashing a false FIR
+    A false FIR has been registered against me motivated by personal enmity. How do I get it quashed? Which court do I approach and what is the process?
+
+69. Bail conditions violated
+    The person who harmed me has violated his bail conditions and is threatening me again. What can I do to get his bail cancelled?
+
+70. Complaint against police misconduct
+    I want to file a formal complaint against a police officer for demanding a bribe and threatening me. Where do I complain — Police Complaints Authority or Vigilance?
+
+71. Witness intimidation
+    I am a witness in a criminal case and the accused is threatening and intimidating me. What legal protection can I get under the witness protection scheme?
+
+72. Stalking and harassment
+    Someone is repeatedly stalking me, following me and sending threatening messages. What legal action can I take under BNS 2023 provisions on stalking?
+
+73. Extortion and blackmail
+    Someone is blackmailing me threatening to share my private photos unless I pay money. What sections of BNS 2023 apply and what immediate action should I take?
+
+74. POCSO — child sexual abuse
+    I need to report suspected child sexual abuse. What is the process under the POCSO Act 2012? Is reporting mandatory? Who must I inform?
+
+75. Mob violence and lynching
+    I or my family member was attacked by a mob. What criminal complaints can be filed and what sections of the BNS apply to mob violence?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏗️  PROPERTY LAW  (13 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+76. Force property registration
+    I have paid the full sale consideration to a seller but they are delaying property registration. What legal action can I take to compel registration?
+
+77. Neighbour encroachment on land
+    My neighbour has gradually encroached several feet onto my land by moving the boundary wall. What civil and criminal remedies are available to me?
+
+78. Ancestral property partition
+    My family's ancestral property has never been formally divided. I want my legal share. What is the partition suit process and how long does it take?
+
+79. Benami transaction risks
+    Someone is proposing to register property in my name even though I will not be paying for it or using it. What are the serious risks under the Benami Transactions Act 1988?
+
+80. Builder not giving OC or CC
+    My builder handed over my flat but has not provided the Occupancy Certificate or Completion Certificate after 18 months. What are the legal consequences and my remedies?
+
+81. Property mutation after purchase
+    I purchased a property but the mutation is pending in the government records. Why is mutation important and what is the process to get it done?
+
+82. Power of Attorney misuse
+    Someone used a Power of Attorney I gave them years ago to fraudulently sell my property without my knowledge. What criminal and civil remedies do I have?
+
+83. Will being contested
+    My deceased parent's will is being challenged by siblings claiming it is forged. How do I defend the validity of the will in court?
+
+84. Gift deed dispute
+    My father gifted his property to me through a registered gift deed but now my siblings are challenging it. Is a registered gift deed final and binding?
+
+85. Undivided joint property sale
+    I own an undivided share in a joint property. Can I sell my share without other co-owners agreeing? What are the limitations?
+
+86. Agricultural land purchase restrictions
+    I want to buy agricultural land in Tamil Nadu. Are there restrictions on who can purchase it and what are the legal requirements?
+
+87. Property tax dispute
+    I received an inflated property tax assessment from the municipality that seems incorrect. How do I formally appeal or dispute this assessment?
+
+88. Adverse possession claim
+    I have been in continuous, open possession of a piece of land for over 12 years. Can I claim legal ownership through adverse possession under the Limitation Act?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📜  FUNDAMENTAL RIGHTS  (13 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+89. All Fundamental Rights explained
+    Explain all Fundamental Rights guaranteed under Articles 12 to 35 of the Indian Constitution in simple everyday language with practical examples of each.
+
+90. How to file an RTI application
+    Explain step by step how to file an RTI application. Who is the Public Information Officer? What information can and cannot be requested? What is the timeline for a response?
+
+91. Free legal aid eligibility
+    I cannot afford to hire a lawyer. Am I entitled to free legal aid? What is NALSA, what is DLSA, and how do I apply for free legal services in my district?
+
+92. Right to Education Act RTE
+    My child's school is demanding a hefty donation as capitation fee and is threatening to deny admission. What does the Right to Education Act 2009 say and how do I report this?
+
+93. Writ petitions explained
+    Explain the five types of writ petitions under Article 32 and 226 of the Constitution — Habeas Corpus, Mandamus, Certiorari, Prohibition, and Quo Warranto — with examples of when each is used.
+
+94. Lok Adalat how it works
+    What is a Lok Adalat? What types of cases can be settled there, what is the process, and is the Lok Adalat award legally binding and final?
+
+95. PIL Public Interest Litigation
+    How do I file a Public Interest Litigation (PIL) in the High Court or Supreme Court? What are the eligibility requirements and what public issues qualify for a PIL?
+
+96. Article 21 right to life
+    Explain Article 21 of the Constitution — Right to Life and Personal Liberty. What does it include beyond just physical life? Give practical examples of how courts have expanded it.
+
+97. Protection against arbitrary arrest
+    What does Article 22 of the Constitution say about protection against arbitrary arrest and detention? What rights must the police follow when arresting someone?
+
+98. Right against exploitation Art 23-24
+    Explain Articles 23 and 24 of the Constitution dealing with forced labour, human trafficking, and prohibition of child labour. What are the penalty laws?
+
+99. Equality rights Art 14 15 16
+    Explain Articles 14, 15, and 16 dealing with Right to Equality, prohibition of discrimination, and equal opportunity in public employment. Give examples of how these apply.
+
+100. Freedom of religion Art 25-28
+     Explain Articles 25 to 28 on Right to Freedom of Religion. What freedoms are guaranteed? What reasonable restrictions can the state impose?
+
+101. Cultural and educational rights
+     Explain Articles 29 and 30 on Cultural and Educational Rights of minorities. What rights do minority communities have to establish and manage educational institutions?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚔  POLICE & LAW ENFORCEMENT  (10 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+102. Rights during police questioning
+     Police have called me to the station for questioning in a case where I am not an accused but a witness. Do I have to go? What are my rights during questioning?
+
+103. Police demanding bribe
+     A traffic police officer or constable is demanding a bribe from me. What should I do in the moment? How do I formally report it afterwards?
+
+104. Third degree torture by police
+     I was subjected to physical violence and torture by police during detention. What legal action can I take? Who should I report this to?
+
+105. Illegal search of premises
+     Police officers came to my house and searched it without a warrant. Is this legal? Under what circumstances can police search without a warrant under BNSS 2023?
+
+106. Section 482 BNSS petition
+     I want to approach the High Court to quash the proceedings against me under BNSS provisions. What is the process and what grounds qualify?
+
+107. Habeas Corpus petition
+     My family member has been detained by police but they are not telling us where he is being held or why. How do I file a Habeas Corpus petition to produce him?
+
+108. Complaint against magistrate
+     I believe a magistrate or judge has behaved improperly in my case. Who oversees judicial conduct and how do I file a formal complaint?
+
+109. Witness protection scheme
+     I am a key witness in a serious criminal case and I am scared for my safety. What witness protection is available under the Supreme Court's Witness Protection Scheme 2018?
+
+110. Custodial death complaint
+     My family member died while in police custody. What legal action can I take? Who investigates custodial deaths and what compensation is available?
+
+111. Police refusing to take cognizance
+     I have reported a serious crime multiple times but police are taking no action. How do I approach the Magistrate directly to take cognizance under BNSS provisions?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧾  TAXATION  (8 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+112. Income tax notice received
+     I received an income tax notice under Section 143(1) or 148 of the Income Tax Act. What does it mean and what should I do immediately?
+
+113. GST notice for small business
+     My small business received a GST notice for alleged non-filing or mismatch. What are the consequences and how do I respond to a GST department notice?
+
+114. TDS not deposited by employer
+     My employer deducted TDS from my salary but when I checked Form 26AS there is no credit. What are my legal options and how do I report this to the Income Tax department?
+
+115. Property tax reassessment dispute
+     My property has been reassessed at a much higher value by the Income Tax or municipal authority. How do I challenge this assessment?
+
+116. Tax raid on my premises
+     Income Tax or GST officers conducted a survey or raid at my business premises. What are my rights during a tax search and seizure operation?
+
+117. Appeal against tax order
+     I received an unfavourable income tax assessment order. How do I file an appeal? What are the different levels of appeal under the Income Tax Act?
+
+118. Capital gains tax on property sale
+     I sold my ancestral property and made a profit. Explain capital gains tax on property sale — short-term vs long-term and how to save tax legally using Section 54.
+
+119. Black money and benami tax rules
+     I received a large inheritance in cash. How do I declare this legally? What are the rules under the Black Money Act and Income Declaration Scheme?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼  BUSINESS & STARTUP LAW  (11 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+120. Business partner dispute
+     My business partner and I are in a serious dispute. He is withdrawing money from our joint account without permission. What legal action can I take to protect the business?
+
+121. Company winding up process
+     I want to close down my Private Limited Company. What is the process for voluntary winding up or striking off under the Companies Act 2013?
+
+122. Contract breach by client
+     My client has breached our service contract by not paying the agreed amount after delivery. What legal action can I take to recover the money?
+
+123. Trademark infringement
+     Another company is using a name or logo very similar to my registered trademark. What legal action can I take under the Trade Marks Act 1999?
+
+124. Copyright violation of my work
+     Someone has copied my creative work — writing, software, design — and is using it commercially without my permission. How do I enforce my copyright?
+
+125. MSME payment recovery
+     My MSME business is owed money by a larger company for goods or services delivered. What is the process under the MSME Act for delayed payment recovery through the MSME Samadhaan portal?
+
+126. Franchisee dispute with franchisor
+     My franchisor is violating the terms of our franchise agreement. What legal remedies are available and which court handles franchise disputes in India?
+
+127. Startup fundraising legal issues
+     I am a startup founder raising funds. What are the key legal documents — term sheet, SHA — and what should I watch out for in investor agreements?
+
+128. Labour law compliance for small business
+     I am starting a small business with 15 employees. What are the key labour law compliances I must follow — PF, ESIC, Shops Act, minimum wages?
+
+129. GST registration and compliance
+     I am starting a business. When do I need to register for GST? What are the penalties for not registering when turnover crosses the threshold?
+
+130. Non-disclosure agreement NDA
+     I need to share confidential business information with a potential partner. Draft key clauses for an NDA and explain what makes an NDA enforceable in India.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻  DIGITAL & CYBER LAW  (12 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+131. Report online financial fraud
+     I was defrauded in an online scam and lost ₹2 lakh. How do I report it on cybercrime.gov.in? What is the national helpline? What evidence must I preserve immediately?
+
+132. Social media defamation
+     A person is posting false and defamatory content about me on Instagram and Twitter damaging my reputation. What legal action can I take under BNS and IT Act 2000?
+
+133. Personal data privacy violation
+     A company shared my personal data including phone number and email with third parties without my consent. What are my rights under the Digital Personal Data Protection Act 2023?
+
+134. SIM swap and bank fraud
+     My phone SIM was fraudulently swapped and my entire bank balance was drained. What immediate steps must I take to freeze and recover the money?
+
+135. Deepfake and morphed images
+     Someone has created deepfake videos or morphed images of me and is circulating them online. What criminal sections under IT Act and BNS apply and how quickly can I get relief?
+
+136. Right to be forgotten online
+     I want to have my personal information and old news articles removed from Google search results and websites. What is the Right to be Forgotten under Indian law?
+
+137. Cryptocurrency and NFT fraud
+     I was defrauded in a cryptocurrency or NFT investment scheme by someone who promised guaranteed returns. What legal action can I take in India?
+
+138. Online gaming fraud
+     I deposited money on an online gaming or fantasy sports platform and am unable to withdraw my winnings. What are my legal remedies?
+
+139. Dark web identity theft
+     I discovered my personal identity documents are being sold on the dark web. What immediate steps should I take and who do I report this to in India?
+
+140. Email phishing attack
+     I clicked a phishing email link and unknowingly gave away my bank credentials. My account has been debited. What are the steps to file complaint and recover money?
+
+141. App data breach
+     An app I use disclosed that my personal and financial data was leaked in a data breach. What rights do I have under DPDPA 2023 and can I claim compensation?
+
+142. Revenge porn and intimate image abuse
+     My ex-partner is threatening to share or has shared intimate images of me without my consent. What immediate legal action can I take under BNS Section 77 and IT Act?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏦  BANKING & FINANCE  (8 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+143. Bank account frozen without notice
+     My bank account has been suddenly frozen without any prior notice or communication. What are the legal reasons a bank can freeze an account and what are my rights?
+
+144. Loan recovery agent harassment
+     Bank loan recovery agents are calling me at odd hours and harassing my family members. What do RBI guidelines say about recovery agent behaviour and how do I complain?
+
+145. Credit card fraud dispute
+     Fraudulent transactions appear on my credit card statement that I did not make. What is the process to dispute them and what does RBI's zero liability policy say?
+
+146. Bank ombudsman complaint
+     I have a complaint against my bank that they have not resolved for over 30 days. How do I file a complaint with the RBI Banking Ombudsman? What is the process?
+
+147. Loan EMI restructuring rights
+     I am going through a financial crisis and cannot pay my loan EMIs. What are my rights regarding EMI restructuring and what protections does RBI provide?
+
+148. Cheque dishonour recovery
+     A cheque I received in payment has bounced and the issuer is not responding. Walk me through the complete legal process under Section 138 NI Act step by step.
+
+149. NBFC loan predatory practices
+     An NBFC gave me a loan with hidden charges and an interest rate far higher than what was told to me verbally. What are my legal options under RBI regulations?
+
+150. UPI transaction dispute
+     I made a UPI payment that was debited from my account but the merchant says they did not receive it. What is the dispute resolution process and what is the timeline?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓  EDUCATION LAW  (7 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+151. School capitation fee complaint
+     My child's private school is demanding a large capitation fee as a condition for admission. This is illegal. Where and how do I file a complaint under the RTE Act?
+
+152. University degree withheld
+     My university is withholding my degree certificate and mark sheets over a fee dispute even though I have already paid. What legal action can I take?
+
+153. Coaching institute refund
+     I paid ₹1.5 lakh as fees to a coaching institute for UPSC/JEE preparation and they are refusing to refund after I cancelled due to poor quality teaching. What can I do?
+
+154. School expulsion without due process
+     My child was expelled from school without any proper inquiry or opportunity to be heard. What are the procedural rights under RTE and school regulations?
+
+155. Caste discrimination in university
+     I am facing caste-based discrimination in a university — being denied hostel room, scholarship, or unfair grading. What is the grievance process and legal remedies?
+
+156. Scholarship not disbursed
+     I am entitled to a government scholarship — SC/ST/OBC post-matric — but the amount has not been disbursed for 8 months. How do I escalate this?
+
+157. Deemed university fraud
+     The private deemed university where I studied has had its recognition cancelled. Is my degree still valid? What are my rights as a student?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌿  ENVIRONMENT LAW  (7 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+158. Factory polluting my area
+     A factory near my home is polluting the air and groundwater and affecting community health. How do I file a complaint with the Tamil Nadu Pollution Control Board?
+
+159. Illegal construction near lake or river
+     Someone is carrying out illegal construction on a lake bed or riverbank near my area destroying the water body. How do I report this and to whom?
+
+160. Tree felling without permission
+     Trees are being illegally felled in my neighbourhood without the required permits. What law protects trees and where do I complain?
+
+161. Groundwater contamination
+     A company is discharging toxic effluents that are contaminating the groundwater my community depends on. What legal action and which authority should I approach?
+
+162. Noise pollution complaint
+     A nearby factory, construction site, or religious event is creating excessive noise beyond permitted levels at night. What are my rights under the Noise Pollution Rules 2000?
+
+163. NGT petition process
+     I want to file a case before the National Green Tribunal (NGT) about an environmental violation. What is the process, eligibility, and what relief can the NGT grant?
+
+164. Coastal zone development violation
+     Illegal construction is happening in the Coastal Regulation Zone near a beach in violation of CRZ rules. How do I report this to the concerned authority?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛂  IMMIGRATION & PASSPORT  (6 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+165. Passport application rejected
+     My passport application was rejected citing police verification issues. What are my rights and how do I appeal a passport rejection?
+
+166. Visa overstay consequences
+     I accidentally overstayed my Indian visa. What are the consequences, the overstay fine, and how do I regularise my status to avoid deportation?
+
+167. OCI card issues and rights
+     I hold an OCI card. What are the rights and restrictions of OCI cardholders in India? Can I buy property, vote, or own agricultural land?
+
+168. Citizenship renunciation process
+     I want to give up my Indian citizenship after acquiring citizenship of another country. What is the formal renunciation process?
+
+169. Stateless person rights
+     My documents show conflicting information about my nationality and I am at risk of being declared stateless. What legal protections exist in India for stateless persons?
+
+170. Refugee and asylum process
+     I am a foreign national seeking protection in India. What rights do refugees have and what is the process for asylum in India?
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✍️  DRAFT DOCUMENTS  (14 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+171. Legal notice to landlord — deposit
+     Draft a formal legal notice to my landlord demanding the return of my security deposit of ₹75,000 within 15 days of receiving this notice, failing which I will file a suit in the appropriate civil court.
+
+172. Legal notice for salary recovery
+     Draft a legal notice to my employer demanding payment of 3 months unpaid salary amounting to ₹1,80,000 under the Payment of Wages Act, with 7 days to comply before legal action.
+
+173. Consumer complaint — defective product
+     Draft a formal complaint for the District Consumer Disputes Redressal Commission against an e-commerce company that delivered a defective laptop worth ₹55,000 and refused to refund after multiple complaints.
+
+174. RTI application — public works
+     Draft an RTI application to the Public Information Officer of the local municipal corporation requesting details about the funds spent and contractor details for a road construction project in my area.
+
+175. Complaint to Labour Commissioner
+     Draft a formal complaint to the Labour Commissioner regarding my employer's failure to pay salary for 3 months and non-deposit of PF contributions amounting to ₹45,000 for the same period.
+
+176. Cybercrime police complaint
+     Draft a detailed written complaint to the Superintendent of Police, Cybercrime Division, about an online fraud where I was cheated of ₹3,50,000 through a fake investment platform.
+
+177. RERA complaint against builder
+     Draft a RERA complaint against a builder for delay in possession of my 2BHK flat by 3 years, seeking possession with compensation under RERA at SBI MCLR plus 2% per annum.
+
+178. Reply to employer legal notice
+     I received a legal notice from my ex-employer claiming I breached my non-compete clause. Draft a formal reply denying breach and asserting the clause is unenforceable under Indian law.
+
+179. Police complaint against harassment
+     Draft a written police complaint against my neighbour who is repeatedly threatening me, damaging my property and creating public nuisance over a boundary dispute.
+
+180. Notice to builder for OC certificate
+     Draft a legal notice to my builder demanding delivery of the Occupancy Certificate and Completion Certificate within 30 days, citing RERA obligations and threatening RERA authority complaint.
+
+181. Affidavit for lost document
+     Draft a general affidavit for submission to a government office declaring the loss of an important document — such as a passport, academic certificate, or property paper.
+
+182. Demand notice for cheque bounce
+     Draft a statutory demand notice under Section 138 of the Negotiable Instruments Act to the drawer of a bounced cheque for ₹2,00,000 demanding payment within 15 days.
+
+183. Insurance claim dispute letter
+     Draft a formal complaint letter to the Insurance Regulatory and Development Authority of India (IRDAI) against an insurance company that wrongfully rejected my health insurance claim of ₹4,50,000.
+
+184. Complaint to banking ombudsman
+     Draft a complaint to the RBI Banking Ombudsman against my bank for illegally freezing my savings account without notice and refusing to unfreeze despite submission of all KYC documents.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📖  EXPLAIN THE LAW  (14 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+185. BNS vs IPC — what changed?
+     Explain the key differences between the new Bharatiya Gavel Sanhita 2023 and the old Indian Penal Code. What major changes should every citizen know about?
+
+186. BNSS vs CrPC — new procedures
+     Explain the important procedural changes introduced by the Bharatiya Nagarik Suraksha Sanhita 2023 compared to the old CrPC. What changed about bail, FIR, and trial procedures?
+
+187. How Indian courts work
+     Explain the hierarchy of courts in India — from village courts to the Supreme Court. What types of cases does each court handle and what is the appeals process?
+
+188. Limitation Act — time limits for cases
+     Explain the Limitation Act 1963. What are the time limits to file different types of civil and criminal cases? What happens if I miss the limitation period?
+
+189. What is mediation and arbitration?
+     Explain the difference between mediation, arbitration, and litigation in India. When should you choose each method? How does the Mediation Act 2023 change things?
+
+190. How to read a legal notice
+     I received a legal notice and I do not understand what it says. Explain what the typical components of a legal notice are and what my obligations are after receiving one.
+
+191. What is a power of attorney?
+     Explain what a Power of Attorney is, the difference between general and specific POA, and what precautions to take when giving or accepting a POA in India.
+
+192. Digital Personal Data Protection Act 2023
+     Explain the Digital Personal Data Protection Act 2023 in simple terms. What rights do I have over my data? What obligations do companies have? What are the penalties for violations?
+
+193. New labour codes 2020 explained
+     Explain the four New Labour Codes passed in 2019-2020 — Code on Wages, Industrial Relations Code, Social Security Code, and OSH Code. How do they change worker rights?
+
+194. Lok Adalat vs regular court
+     Explain the differences between resolving a dispute at a Lok Adalat versus fighting it in a regular court — in terms of cost, time, finality of decision, and types of cases suitable.
+
+195. Land record types in India
+     Explain the different land record documents in India — Patta, Chitta, Adangal, EC, Sale Deed, Khata — what each one means and when you need each document.
+
+196. Insolvency and IBC explained
+     Explain the Insolvency and Bankruptcy Code 2016 in simple terms. What happens when a company or individual is declared insolvent? What are the rights of creditors?
+
+197. Right to Privacy — Article 21
+     Explain the landmark Puttaswamy judgment that established Right to Privacy as a Fundamental Right under Article 21. What does this mean for citizens practically?
+
+198. What is a PIL and who can file it?
+     Explain Public Interest Litigation in India — its history, how it has been used, who can file one, what issues qualify, and what the Supreme Court's current approach to PILs is.
+
+
+═══════════════════════════════════════════════════════════════
+SUMMARY
+═══════════════════════════════════════════════════════════════
+
+Total Categories : 18
+Total Prompts    : 198
+
+Category Breakdown:
+  🏠 Rent & Housing          14
+  👷 Labour & Employment     17
+  🛒 Consumer Rights         15
+  👨‍👩‍👧 Family Law              15
+  ⚖️ Criminal Law            14
+  🏗️ Property Law            13
+  📜 Fundamental Rights      13
+  🚔 Police & Enforcement    10
+  🧾 Taxation                 8
+  💼 Business & Startup      11
+  💻 Digital & Cyber Law     12
+  🏦 Banking & Finance        8
+  🎓 Education Law            7
+  🌿 Environment Law          7
+  🛂 Immigration              6
+  ✍️ Draft Documents         14
+  📖 Explain the Law         14
+                           ───
+                           198
+
+═══════════════════════════════════════════════════════════════

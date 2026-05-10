@@ -1,0 +1,1389 @@
+# GAVEL — AI ANSWER LIBRARY FOR ALL PROMPTS
+
+Based on the prompt collection provided by the user. fileciteturn0file0
+
+---
+
+# 🏠 RENT & HOUSING
+
+## 1. Security deposit not returned
+
+* Send a written demand notice asking for refund within a fixed timeline.
+* Preserve rent agreement, payment proof, photos of property condition, and handover proof.
+* Under tenancy and rent laws, unreasonable withholding can be challenged before civil court or rent authority.
+* You may claim refund with interest and compensation.
+
+## 2. Illegal rent hike
+
+* Rent increase usually depends on the lease agreement and applicable Rent Control provisions.
+* Sudden unilateral hikes without notice may be challengeable.
+* Continue paying agreed rent while disputing the increase formally.
+* Send written objection and seek rent authority intervention if required.
+
+## 3. Landlord cut electricity and water
+
+* Illegal disconnection to force eviction may amount to harassment and criminal intimidation.
+* File police complaint immediately.
+* Approach rent authority/civil court for restoration order.
+* Preserve photos, videos, bills, and witness statements.
+
+## 4. Eviction without court order
+
+* A landlord generally cannot forcibly evict a tenant without legal process.
+* Call police if threats or force are used.
+* Do not sign any forced documents.
+* File injunction suit for protection.
+
+## 5. No rent agreement signed
+
+* Oral tenancy can still be legally recognized.
+* Bank transfers, chats, utility bills, Aadhaar address, and witnesses can prove tenancy.
+* Risk increases regarding rent disputes and eviction terms.
+* Insist on written agreement.
+
+## 6. No rent receipt provided
+
+* Pay digitally whenever possible.
+* Keep screenshots, bank entries, and chat confirmations.
+* Written acknowledgement can help prove payment.
+* Lack of receipts may create future disputes.
+
+## 7. Landlord entered without permission
+
+* Tenants have privacy and peaceful possession rights.
+* Unauthorized entry can amount to harassment.
+* Send written warning.
+* Record evidence and escalate legally if repeated.
+
+## 8. Property damage deduction dispute
+
+* Compare move-in and move-out photos.
+* Ask landlord for itemized deduction details.
+* Dispute unreasonable deductions through legal notice.
+* Claim refund before rent authority or civil court.
+
+## 9. Sub-letting dispute
+
+* Paying guest arrangements and subletting are legally different.
+* Check lease clauses carefully.
+* If exclusive possession was not transferred, it may not qualify as subletting.
+* Maintain proof of occupancy arrangement.
+
+## 10. Lease agreement expired
+
+* Continuing tenancy with rent acceptance may create month-to-month tenancy.
+* Existing tenant protections may continue.
+* Fresh notice may still be required before eviction.
+* Renew agreement formally.
+
+## 11. Joint tenant rights
+
+* Liability depends on lease structure.
+* Remaining tenant may continue if landlord agrees.
+* Security deposit distribution should be documented.
+* Written clarification is important.
+
+## 12. House in poor condition
+
+* Essential repairs are usually landlord responsibility unless agreed otherwise.
+* Send written repair demand.
+* Preserve photos/videos.
+* Seek rent authority or municipal intervention.
+
+## 13. Commercial property rent dispute
+
+* Commercial tenancy rights depend heavily on contract terms.
+* Threats to shut shop illegally can be challenged.
+* Seek injunction against interference.
+* Negotiate revised terms in writing.
+
+## 14. Landlord selling rented property
+
+* Sale generally does not automatically terminate tenancy.
+* New owner steps into landlord’s position.
+* Existing lease rights may continue.
+* Demand formal ownership transfer notice.
+
+---
+
+# 👷 LABOUR & EMPLOYMENT
+
+## 15. Salary not paid for months
+
+* Send formal salary demand email/legal notice.
+* File complaint before Labour Commissioner.
+* Preserve appointment proof, payslips, attendance, and chats.
+* Claim unpaid wages with interest.
+
+## 16. PF not deposited by employer
+
+* Verify passbook on EPFO portal.
+* File EPFO grievance immediately.
+* Employer can face penalties and prosecution.
+* Keep salary slips showing PF deduction.
+
+## 17. Wrongful termination
+
+* Sudden termination without due process may be illegal.
+* Seek reinstatement, notice pay, or compensation.
+* Labour court remedy may be available.
+* Preserve termination emails and HR communication.
+
+## 18. No appointment letter given
+
+* Employment can still be proved through salary records and communications.
+* Lack of appointment letter weakens employer’s position too.
+* Collect every employment-related document.
+* Request written confirmation formally.
+
+## 19. Unpaid overtime work
+
+* Labour laws require overtime compensation in many sectors.
+* Preserve attendance logs and work records.
+* File complaint before labour authority.
+* Demand overtime wages with statutory rates.
+
+## 20. Workplace sexual harassment
+
+* Complaint can be filed before Local Complaints Committee if company lacks ICC.
+* Preserve chats, emails, recordings, and witness details.
+* Employer non-compliance with POSH Act is serious.
+* Seek workplace safety measures immediately.
+
+## 21. Maternity leave denied
+
+* Eligible employees are protected under Maternity Benefit Act.
+* Written denial can strengthen legal claim.
+* Complaint can be filed before labour authorities.
+* Retaliation by employer may also be challengeable.
+
+## 22. ESIC claim rejected
+
+* Escalate before ESIC grievance authority.
+* Verify ESIC contribution records.
+* Collect hospital documents and rejection letters.
+* Wrongful denial can be challenged.
+
+## 23. Below minimum wage
+
+* Paying below notified minimum wage is illegal.
+* Complaint can be filed before labour department.
+* Recovery with penalties may be ordered.
+* Preserve wage proof and attendance.
+
+## 24. Constructive dismissal
+
+* Forced resignation due to hostile conditions may amount to constructive dismissal.
+* Document harassment patterns.
+* Avoid resigning impulsively.
+* Seek labour law advice before exit.
+
+## 25. No gratuity paid after 5 years
+
+* Employees completing qualifying service are generally entitled to gratuity.
+* File claim before controlling authority.
+* Employer delay can attract interest.
+* Preserve relieving and salary records.
+
+## 26. Contract labour rights
+
+* Contract workers still have statutory protections.
+* Equal pay issues may arise in similar work situations.
+* PF, ESIC, wages, and safety laws still apply.
+* Principal employer may also bear responsibility.
+
+## 27. Company shut down without notice
+
+* Employees may claim dues, severance, and unpaid benefits.
+* File claims before labour authority/NCLT if insolvency involved.
+* Preserve all employment records.
+* Coordinate collectively with other employees.
+
+## 28. Non-compete clause enforceability
+
+* Post-employment non-compete clauses are often difficult to enforce in India.
+* Confidentiality obligations may still survive.
+* Review exact contract language carefully.
+* Legal notice response may be necessary.
+
+## 29. Bonus not paid
+
+* Eligibility depends on salary limits and company applicability.
+* Complaint can be filed under Payment of Bonus Act.
+* Preserve salary slips and company announcements.
+* Demand written explanation.
+
+## 30. Discrimination at workplace
+
+* Document incidents, emails, evaluations, and witnesses.
+* Internal grievance mechanism should be used first.
+* Serious discrimination may attract constitutional and labour remedies.
+* Maintain detailed chronology.
+
+## 31. Notice period dispute
+
+* If notice served properly, employer cannot arbitrarily hold employee indefinitely.
+* Request relieving letter in writing.
+* Preserve resignation acknowledgement.
+* Threats of absconding classification may be challengeable.
+
+---
+
+# 🛒 CONSUMER RIGHTS
+
+## 32. Online product refund refused
+
+* File complaint through platform grievance system first.
+* Preserve invoices, chats, photos, and complaint numbers.
+* Consumer Commission complaint may be filed.
+* Seek refund, replacement, and compensation.
+
+## 33. Builder flat possession delayed
+
+* File complaint before RERA authority.
+* Seek possession, refund, interest, and compensation.
+* Preserve builder-buyer agreement.
+* Delay beyond promised date strengthens case.
+
+## 34. Health insurance claim rejected
+
+* Demand detailed rejection reason.
+* Escalate through insurer grievance and IRDAI.
+* Ombudsman remedy may also exist.
+* Preserve proposal form and policy documents.
+
+## 35. Life insurance claim denied
+
+* Insurer must justify rejection.
+* Collect medical and disclosure records.
+* File complaint before Ombudsman or consumer forum.
+* Wrongful repudiation can be challenged.
+
+## 36. Bank hidden charges
+
+* Request written charge explanation.
+* File complaint through bank grievance system.
+* Escalate to RBI Ombudsman if unresolved.
+* Preserve statements and SMS alerts.
+
+## 37. New vehicle manufacturing defect
+
+* Warranty obligations must be honored.
+* Seek repair, replacement, or refund.
+* Preserve service records.
+* Consumer complaint can be filed.
+
+## 38. Medical negligence
+
+* Obtain medical records immediately.
+* Expert opinion may help.
+* Consumer complaint and civil compensation claim possible.
+* Serious negligence may also involve criminal liability.
+
+## 39. Misleading advertisement
+
+* False advertising may violate consumer law.
+* Preserve brochures, screenshots, and ads.
+* Seek refund and compensation.
+* Complaint may be filed before consumer commission.
+
+## 40. Food adulteration
+
+* Preserve packaging and bill.
+* Complaint can be filed with FSSAI/local food safety officer.
+* Consumer forum compensation also possible.
+* Lab testing may occur.
+
+## 41. Telecom poor quality
+
+* File complaint with telecom provider first.
+* Escalate through appellate mechanism.
+* TRAI regulations may support relief.
+* Preserve complaint IDs.
+
+## 42. Gym/coaching refund
+
+* Check cancellation terms.
+* Unfair retention clauses may be challengeable.
+* Consumer complaint may be filed.
+* Preserve receipts and communications.
+
+## 43. Travel package fraud
+
+* Preserve itinerary, receipts, advertisements, and chats.
+* Consumer complaint and police complaint may both apply.
+* Seek refund and compensation.
+* Fraud elements strengthen case.
+
+## 44. Electricity bill dispute
+
+* File written objection immediately.
+* Seek meter inspection.
+* Avoid disconnection by paying disputed amount under protest if required.
+* Escalate before electricity grievance authority.
+
+## 45. Faulty home appliance
+
+* Warranty service obligations must be honored.
+* Demand replacement/repair in writing.
+* Preserve bills and service records.
+* Consumer forum remedy available.
+
+## 46. E-commerce counterfeit product
+
+* Platforms may also bear liability in some situations.
+* Preserve product photos and seller details.
+* Seek refund and compensation.
+* Consumer complaint can include both seller and platform.
+
+---
+
+# 👨‍👩‍👧 FAMILY LAW
+
+## 47. Mutual consent divorce
+
+* Requires joint petition and mutual agreement.
+* Courts examine free consent and settlement terms.
+* Cooling-off period may sometimes be waived.
+* Documents include marriage proof, ID, settlement terms.
+
+## 48. Contested divorce
+
+* Grounds may include cruelty, desertion, adultery, conversion, mental disorder, etc.
+* Proceedings can take years depending on disputes.
+* Evidence quality is crucial.
+* Interim maintenance/custody applications may arise.
+
+## 49. Maintenance enforcement
+
+* Non-payment of court ordered maintenance can trigger enforcement proceedings.
+* Salary attachment or warrant may be issued.
+* Repeated default can have serious consequences.
+* Preserve payment history.
+
+## 50. Child custody battle
+
+* Child welfare is primary consideration.
+* Courts consider stability, education, safety, emotional bond.
+* Legal custody differs from physical custody.
+* Shared visitation is common.
+
+## 51. Child support calculation
+
+* Based on income, lifestyle, education, medical needs, and child welfare.
+* No fixed formula exists universally.
+* Courts balance both parents’ responsibilities.
+* Financial disclosure may be required.
+
+## 52. Domestic violence immediate help
+
+* Protection orders, residence orders, and maintenance may be sought.
+* Police and Protection Officers can assist.
+* Emergency shelter and medical aid available.
+* Preserve evidence safely.
+
+## 53. Property rights after spouse death
+
+* Succession depends on religion and applicable succession law.
+* Legal heirs generally include spouse and children.
+* Obtain death certificate and legal heir certificate.
+* Mutation and succession steps follow.
+
+## 54. Daughter inheritance rights
+
+* Daughters have equal coparcenary rights in ancestral property under Hindu Succession Amendment.
+* Denial solely due to gender is unlawful.
+* Partition suit may be filed.
+* Preserve family property documents.
+
+## 55. Dowry harassment
+
+* Police complaint under dowry and cruelty laws can be filed.
+* Preserve chats, bank records, recordings, witness details.
+* Protection and maintenance remedies may also apply.
+* Immediate safety planning is important.
+
+## 56. Senior citizen maintenance rights
+
+* Senior citizens may seek maintenance and protection.
+* Eviction of abusive children from self-acquired property may be possible.
+* Tribunal remedy exists.
+* Fast-track relief may apply.
+
+## 57. Adoption process
+
+* CARA regulates adoption procedures.
+* Registration, home study, referral, and court process involved.
+* Eligibility rules apply.
+* Timelines vary.
+
+## 58. Muslim marriage and divorce law
+
+* Rights depend on Muslim personal law and statutory protections.
+* Triple talaq has been criminalized.
+* Maintenance and custody rights may still be pursued.
+* Formal legal documentation is important.
+
+## 59. Inter-religion marriage
+
+* Special Marriage Act allows civil marriage across religions.
+* Notice and procedural requirements apply.
+* Objections process exists.
+* Marriage certificate provides legal recognition.
+
+## 60. Guardianship of minor child
+
+* Court evaluates welfare of child primarily.
+* Petition under Guardians and Wards Act required.
+* Financial and emotional capability assessed.
+* Supporting documents essential.
+
+## 61. Partition of family property
+
+* Partition can occur through family settlement or court suit.
+* Court may appoint commissioner for division.
+* Revenue records and title documents are crucial.
+* Injunction may prevent illegal sale.
+
+---
+
+# ⚖️ CRIMINAL LAW
+
+## 62. Rights when arrested
+
+* You must be informed of grounds of arrest.
+* Right to lawyer and medical examination exists.
+* Family/friend must be informed.
+* Production before magistrate generally required within 24 hours.
+
+## 63. Police refusing FIR
+
+* Serious cognizable offences require FIR registration.
+* Zero FIR can be filed at any police station.
+* Complaint may be escalated to SP or Magistrate.
+* Preserve refusal evidence.
+
+## 64. Regular bail
+
+* Bail application filed before appropriate court.
+* Court considers offence seriousness, evidence, flight risk.
+* Surety and documents may be needed.
+* Legal representation is important.
+
+## 65. Anticipatory bail
+
+* Applied when apprehending arrest.
+* Filed before Sessions Court or High Court.
+* Court may impose conditions.
+* Strong factual explanation helps.
+
+## 66. Cheque bounce case
+
+* Demand notice must be sent within statutory timeline.
+* Complaint filed if payment not made after notice period.
+* Bank memo and cheque copies are essential.
+* Criminal prosecution and recovery possible.
+
+## 67. Cybercrime fraud
+
+* Report immediately through cybercrime portal and helpline 1930.
+* Freeze transactions quickly.
+* Preserve screenshots, transaction IDs, phone numbers.
+* FIR may also be required.
+
+## 68. Quashing false FIR
+
+* High Court can quash proceedings in suitable cases.
+* Evidence showing abuse of process is important.
+* Petition drafted carefully.
+* Interim protection may be sought.
+
+## 69. Bail conditions violated
+
+* Complaint can seek bail cancellation.
+* Preserve evidence of threats or violations.
+* Inform police and prosecution.
+* Witness safety concerns matter.
+
+## 70. Complaint against police misconduct
+
+* Complaint may be filed before vigilance authorities or senior police officials.
+* Preserve recordings and witness details.
+* Anti-corruption mechanisms may apply.
+* Written complaints are stronger.
+
+## 71. Witness intimidation
+
+* Inform court and police immediately.
+* Witness protection measures may be sought.
+* Threat evidence is important.
+* Bail cancellation may be requested.
+
+## 72. Stalking and harassment
+
+* Preserve messages, CCTV, call logs, screenshots.
+* Police complaint can be filed.
+* Protection orders may help.
+* Cyber elements may invoke IT laws too.
+
+## 73. Extortion and blackmail
+
+* Do not continue payment.
+* Preserve chats and transaction details.
+* File immediate police/cyber complaint.
+* Emergency takedown requests may help.
+
+## 74. POCSO reporting
+
+* Reporting child sexual abuse is legally important.
+* Police must follow child-sensitive procedures.
+* Identity confidentiality is protected.
+* Immediate safety of child is priority.
+
+## 75. Mob violence
+
+* FIR should include all accused if identifiable.
+* Medical records and videos are crucial.
+* Compensation schemes may apply.
+* Serious offences attract severe penalties.
+
+---
+
+# 🏗️ PROPERTY LAW
+
+## 76. Force property registration
+
+* Legal notice demanding execution of sale deed may be issued.
+* Suit for specific performance can compel registration.
+* Preserve payment proof and agreement.
+* Limitation periods apply.
+
+## 77. Neighbour encroachment
+
+* Obtain survey and boundary measurement.
+* Civil injunction and possession suit possible.
+* Criminal trespass complaint may also arise.
+* Preserve old maps and records.
+
+## 78. Ancestral property partition
+
+* Coparceners may claim legal share.
+* Partition suit may be filed.
+* Revenue and title documents are essential.
+* Interim injunction may prevent alienation.
+
+## 79. Benami transaction risks
+
+* Benami arrangements carry serious penalties and confiscation risks.
+* Avoid proxy ownership structures.
+* Tax and criminal consequences may arise.
+* Seek formal legal advice before any transaction.
+
+## 80. Builder not giving OC/CC
+
+* Occupancy and Completion Certificates are important for legality and utilities.
+* RERA complaint may be filed.
+* Delay may affect resale and loans.
+* Compensation may be claimed.
+
+## 81. Property mutation
+
+* Mutation updates government revenue records.
+* Important for taxation and future transfer.
+* Requires sale deed and supporting records.
+* Follow up with local authority.
+
+## 82. POA misuse
+
+* Revoke POA immediately.
+* File police complaint and civil suit.
+* Seek cancellation of fraudulent transfer.
+* Preserve registration records.
+
+## 83. Will contested
+
+* Probate proceedings may examine authenticity.
+* Witness testimony becomes important.
+* Medical and handwriting evidence may arise.
+* Preserve original will safely.
+
+## 84. Gift deed dispute
+
+* Registered gift deeds carry strong evidentiary value.
+* Challenges usually require proof of fraud/coercion.
+* Mutation and possession records matter.
+* Preserve registration documents.
+
+## 85. Undivided share sale
+
+* Undivided share can often be sold.
+* Buyer steps into seller’s share rights.
+* Practical possession issues may continue.
+* Partition may later become necessary.
+
+## 86. Agricultural land purchase
+
+* State-specific restrictions may apply.
+* Verify zoning and title carefully.
+* Obtain EC and revenue records.
+* Legal due diligence is essential.
+
+## 87. Property tax dispute
+
+* File appeal within prescribed timeline.
+* Seek reassessment.
+* Preserve comparable valuation records.
+* Pay undisputed portion if required.
+
+## 88. Adverse possession
+
+* Continuous hostile possession for statutory period may create claim.
+* Evidence of uninterrupted possession is critical.
+* Courts examine strict conditions.
+* Mere occupation alone may not suffice.
+
+---
+
+# 📜 FUNDAMENTAL RIGHTS
+
+## 89. Fundamental Rights explained
+
+* Rights include equality, freedom, protection from exploitation, religious freedom, cultural rights, and constitutional remedies.
+* They protect citizens from arbitrary state action.
+* Courts enforce these rights.
+* Restrictions must still be reasonable.
+
+## 90. RTI application
+
+* RTI applications seek public authority information.
+* Submit to Public Information Officer with fee.
+* Authorities usually reply within statutory period.
+* Certain sensitive information is exempt.
+
+## 91. Free legal aid
+
+* Economically weaker and vulnerable groups may qualify.
+* DLSA and NALSA provide legal services.
+* Applications can be filed locally.
+* Legal representation may be free.
+
+## 92. RTE Act
+
+* Capitation fees and unfair screening are prohibited.
+* Complaint may be filed before education authorities.
+* Preserve fee demand proof.
+* Schools can face penalties.
+
+## 93. Writ petitions
+
+* Habeas Corpus: produce detained person.
+* Mandamus: compel authority action.
+* Certiorari: quash illegal order.
+* Prohibition: stop excess jurisdiction.
+* Quo Warranto: challenge unlawful office holding.
+
+## 94. Lok Adalat
+
+* Faster dispute settlement mechanism.
+* Useful for compromise-based matters.
+* Awards are binding.
+* Usually cheaper and quicker.
+
+## 95. PIL
+
+* PIL addresses public interest issues.
+* Filed before High Court/Supreme Court.
+* Courts discourage publicity-oriented PILs.
+* Supporting evidence is important.
+
+## 96. Article 21
+
+* Right to life includes dignity, privacy, livelihood, education, and health aspects.
+* Courts interpret it broadly.
+* Arbitrary deprivation is prohibited.
+* Major constitutional protection.
+
+## 97. Article 22
+
+* Protects arrested persons against arbitrary detention.
+* Rights include legal counsel and prompt magistrate production.
+* Preventive detention laws have safeguards.
+* Illegal detention can be challenged.
+
+## 98. Articles 23-24
+
+* Forced labour, trafficking, and child labour protections exist.
+* Violations attract criminal penalties.
+* Children cannot be employed in hazardous work.
+* Labour enforcement agencies act on complaints.
+
+## 99. Equality rights
+
+* Equality before law and anti-discrimination protections apply.
+* State cannot discriminate arbitrarily.
+* Reservations are constitutionally recognized in some contexts.
+* Public employment fairness is protected.
+
+## 100. Freedom of religion
+
+* Citizens may practice and propagate religion.
+* State may impose public order and morality restrictions.
+* Religious institutions also have rights.
+* Forced conversion disputes can arise.
+
+## 101. Cultural and educational rights
+
+* Minorities may establish and administer educational institutions.
+* Language and culture protections exist.
+* State regulation still applies reasonably.
+* Constitutional safeguards preserve diversity.
+
+---
+
+# 🚔 POLICE & LAW ENFORCEMENT
+
+## 102. Rights during police questioning
+
+* Witnesses may still have legal protections.
+* Women and vulnerable persons receive additional safeguards.
+* You may seek lawyer presence.
+* Statements should be truthful and careful.
+
+## 103. Police demanding bribe
+
+* Avoid paying if safely possible.
+* Record details discreetly.
+* Report to vigilance/anti-corruption authorities.
+* Preserve evidence carefully.
+
+## 104. Police torture
+
+* Medical examination and documentation are critical.
+* Complaint may be filed before magistrate, NHRC, or higher police officials.
+* Compensation claims may arise.
+* Serious constitutional violations involved.
+
+## 105. Illegal search
+
+* Some warrantless searches are legally permitted in urgent situations.
+* Ask for officer identification.
+* Preserve search details and witnesses.
+* Illegal searches may be challengeable.
+
+## 106. Section 482 petition
+
+* High Court inherent powers may quash abuse of process.
+* Strong factual/legal grounds required.
+* Petition drafting is crucial.
+* Interim protection may be requested.
+
+## 107. Habeas Corpus
+
+* Filed when unlawful detention suspected.
+* High Court/Supreme Court can order production.
+* Urgent constitutional remedy.
+* Detention legality examined.
+
+## 108. Complaint against magistrate
+
+* Judicial conduct complaints follow formal channels.
+* High Court administrative authority oversees subordinate judiciary.
+* Complaints require credible evidence.
+* Dissatisfaction with judgment alone is insufficient.
+
+## 109. Witness protection scheme
+
+* Threat assessment may lead to protection measures.
+* Identity confidentiality and relocation can occur.
+* Court and police coordination involved.
+* Serious cases receive priority.
+
+## 110. Custodial death complaint
+
+* Mandatory inquiry and post-mortem procedures generally apply.
+* NHRC and judicial oversight may occur.
+* Compensation claims possible.
+* Preserve all records immediately.
+
+## 111. Police refusing cognizance
+
+* Magistrate complaint procedure exists.
+* Written representation and evidence help.
+* Court may direct FIR registration.
+* Private complaint route may continue.
+
+---
+
+# 🧾 TAXATION
+
+## 112. Income tax notice
+
+* Read section and reason carefully.
+* Respond within timeline.
+* Preserve financial records.
+* Professional tax assistance may help.
+
+## 113. GST notice
+
+* Notices may relate to mismatch, filing, or compliance issues.
+* Reply through GST portal with supporting documents.
+* Ignoring notices can escalate penalties.
+* Reconciliation is important.
+
+## 114. TDS not deposited
+
+* Employer remains liable for deposit.
+* Complaint can be raised with tax department.
+* Preserve Form 16 and salary slips.
+* Non-deposit is serious non-compliance.
+
+## 115. Property tax reassessment
+
+* Challenge reassessment through appeal procedure.
+* Obtain valuation basis.
+* Comparative evidence helps.
+* Timelines are important.
+
+## 116. Tax raid rights
+
+* Cooperate but know legal rights.
+* Officers require authorization.
+* Preserve inventory and seizure records.
+* Avoid obstructing proceedings.
+
+## 117. Appeal against tax order
+
+* Appeals follow hierarchical structure.
+* Strict timelines apply.
+* Stay requests may sometimes be sought.
+* Supporting evidence is essential.
+
+## 118. Capital gains tax
+
+* Tax depends on holding period and asset type.
+* Exemptions may exist under reinvestment provisions.
+* Indexed cost calculations matter.
+* Proper documentation is essential.
+
+## 119. Black money rules
+
+* Large unexplained cash holdings can trigger scrutiny.
+* Lawful declaration and documentation are important.
+* Benami and tax implications may arise.
+* Professional advice recommended.
+
+---
+
+# 💼 BUSINESS & STARTUP LAW
+
+## 120. Business partner dispute
+
+* Review partnership/shareholder agreement.
+* Freeze unauthorized withdrawals if necessary.
+* Seek injunction and accounting.
+* Preserve banking evidence.
+
+## 121. Company winding up
+
+* Strike-off or liquidation routes exist.
+* Compliance filings required.
+* Employee and creditor dues must be addressed.
+* MCA procedures apply.
+
+## 122. Contract breach by client
+
+* Send legal notice demanding payment.
+* Preserve invoices and contract proof.
+* Arbitration or civil suit may follow.
+* Interest and damages may be claimable.
+
+## 123. Trademark infringement
+
+* Cease and desist notice often first step.
+* Injunction and damages may be sought.
+* Confusing similarity is key factor.
+* Preserve proof of trademark registration.
+
+## 124. Copyright violation
+
+* Preserve proof of original creation.
+* Send takedown/legal notice.
+* Civil and criminal remedies may exist.
+* Injunction can stop unauthorized use.
+
+## 125. MSME recovery
+
+* MSME Samadhaan mechanism provides recovery route.
+* Delayed payment interest may apply.
+* Preserve invoices and delivery proof.
+* Registration status matters.
+
+## 126. Franchise dispute
+
+* Franchise agreement governs obligations.
+* Arbitration clauses are common.
+* Seek damages or injunction if breach proven.
+* Preserve communication history.
+
+## 127. Startup fundraising
+
+* Term sheets and SHA define investor rights.
+* Watch liquidation preference, dilution, and control clauses.
+* Legal due diligence is critical.
+* Founder protections matter.
+
+## 128. Labour compliance for small business
+
+* PF, ESIC, wages, Shops Act, and safety laws may apply.
+* Employee count thresholds matter.
+* Record keeping is essential.
+* Non-compliance risks penalties.
+
+## 129. GST registration
+
+* Mandatory registration thresholds apply.
+* Interstate and e-commerce rules may differ.
+* Delayed registration can attract penalties.
+* Regular return filing required.
+
+## 130. NDA
+
+* Define confidential information clearly.
+* Include duration, obligations, exceptions, remedies.
+* Ensure reasonable scope.
+* Written execution improves enforceability.
+
+---
+
+# 💻 DIGITAL & CYBER LAW
+
+## 131. Online financial fraud
+
+* Report immediately on cybercrime portal and 1930.
+* Faster reporting improves recovery chances.
+* Preserve transaction records and screenshots.
+* Notify bank immediately.
+
+## 132. Social media defamation
+
+* Preserve screenshots and URLs.
+* Send takedown request/platform complaint.
+* Civil and criminal remedies may apply.
+* Reputation damage evidence matters.
+
+## 133. Data privacy violation
+
+* DPDPA gives individuals certain rights over personal data.
+* Companies require lawful processing basis.
+* Complaint mechanisms may exist.
+* Preserve evidence of unauthorized sharing.
+
+## 134. SIM swap fraud
+
+* Contact telecom operator and bank immediately.
+* Freeze accounts/cards.
+* File cyber complaint urgently.
+* Preserve SMS and transaction alerts.
+
+## 135. Deepfake and morphed images
+
+* Report content to platform urgently.
+* File police/cyber complaint.
+* IT Act and criminal provisions may apply.
+* Preserve all evidence before takedown.
+
+## 136. Right to be forgotten
+
+* Courts have recognized limited privacy-based removal rights.
+* Search engine/platform requests may be filed.
+* Relief depends on balancing privacy and public interest.
+* Legal proceedings may be necessary.
+
+## 137. Crypto/NFT fraud
+
+* Preserve wallet addresses and transaction IDs.
+* File cyber complaint immediately.
+* Fraud and cheating provisions may apply.
+* Recovery may be difficult but early action helps.
+
+## 138. Online gaming fraud
+
+* Preserve app terms, chats, transaction proof.
+* File grievance and cyber complaint.
+* Consumer law remedies may apply.
+* Regulatory status varies.
+
+## 139. Dark web identity theft
+
+* Freeze affected accounts.
+* Change passwords and enable MFA.
+* File cyber complaint.
+* Monitor financial activity continuously.
+
+## 140. Phishing attack
+
+* Inform bank immediately.
+* Freeze transactions/cards.
+* File cyber complaint and preserve emails.
+* Early reporting is critical.
+
+## 141. App data breach
+
+* Companies may have disclosure obligations.
+* Users may seek grievance redress.
+* Preserve breach notifications.
+* Compensation issues may evolve under DPDPA.
+
+## 142. Revenge porn
+
+* Immediate police and cyber complaint recommended.
+* Platforms can be asked for takedown.
+* Serious criminal offences may apply.
+* Preserve screenshots and links.
+
+---
+
+# 🏦 BANKING & FINANCE
+
+## 143. Bank account frozen
+
+* Accounts may be frozen due to investigations, KYC, or court orders.
+* Demand written reason.
+* Submit required compliance documents.
+* Challenge arbitrary freezing legally.
+
+## 144. Recovery agent harassment
+
+* RBI guidelines prohibit abusive recovery practices.
+* Record calls and harassment evidence.
+* File complaint with bank and RBI Ombudsman.
+* Police complaint may apply for threats.
+
+## 145. Credit card fraud
+
+* Report unauthorized transactions immediately.
+* RBI zero liability rules may protect consumers in certain cases.
+* Block card quickly.
+* Preserve transaction alerts.
+
+## 146. Banking Ombudsman complaint
+
+* First complain to bank officially.
+* Ombudsman complaint possible if unresolved.
+* Online complaint systems available.
+* Preserve complaint reference numbers.
+
+## 147. EMI restructuring
+
+* Banks may offer restructuring under policy frameworks.
+* Communicate financial hardship early.
+* Avoid silent default.
+* Written restructuring terms are important.
+
+## 148. Cheque dishonour recovery
+
+* Send statutory notice within legal timeline.
+* File complaint if payment unpaid.
+* Preserve bank memo and cheque.
+* Civil recovery may also be pursued.
+
+## 149. NBFC predatory practices
+
+* Hidden charges and unfair lending can be challenged.
+* RBI grievance and Ombudsman remedies may exist.
+* Preserve loan documents and communications.
+* Seek detailed account statement.
+
+## 150. UPI dispute
+
+* Raise complaint through app/bank quickly.
+* NPCI dispute mechanisms exist.
+* Preserve UTR/reference numbers.
+* Timelines vary by transaction type.
+
+---
+
+# 🎓 EDUCATION LAW
+
+## 151. Capitation fee complaint
+
+* Capitation fees are generally prohibited.
+* Complaint may be filed before education authorities.
+* Preserve payment demands and messages.
+* Schools can face penalties.
+
+## 152. Degree withheld
+
+* Universities cannot arbitrarily withhold certificates.
+* Written demand should be sent.
+* Consumer and writ remedies may exist.
+* Preserve fee payment proof.
+
+## 153. Coaching refund
+
+* Unfair refund denial may be challengeable.
+* Consumer complaint may be filed.
+* Preserve advertisements and teaching quality evidence.
+* Written cancellation proof matters.
+
+## 154. School expulsion
+
+* Principles of natural justice should be followed.
+* Child should generally receive hearing opportunity.
+* Education authority intervention possible.
+* Preserve notices and records.
+
+## 155. Caste discrimination
+
+* University grievance systems and SC/ST protections may apply.
+* Preserve discriminatory communications.
+* Complaint can be escalated legally.
+* Anti-discrimination laws may apply.
+
+## 156. Scholarship not disbursed
+
+* Contact scholarship authority and institution.
+* File grievance through official portal.
+* Preserve application and sanction proof.
+* RTI may help track delay.
+
+## 157. Deemed university fraud
+
+* Degree validity depends on recognition timeline and orders.
+* UGC directions become important.
+* Students may seek compensation.
+* Preserve admission documents.
+
+---
+
+# 🌿 ENVIRONMENT LAW
+
+## 158. Factory pollution
+
+* Complaint may be filed with Pollution Control Board.
+* Preserve photos, samples, and medical evidence.
+* Environmental compensation and closure directions possible.
+* Community action strengthens case.
+
+## 159. Illegal construction near water body
+
+* Report to local authority and pollution board.
+* NGT remedy may exist.
+* Satellite images/photos help.
+* Environmental laws strongly protect water bodies.
+
+## 160. Illegal tree felling
+
+* Municipal and forest authorities may act.
+* Preserve videos/photos.
+* Emergency complaints can stop further cutting.
+* Permissions are often mandatory.
+
+## 161. Groundwater contamination
+
+* Pollution Board and NGT remedies exist.
+* Scientific testing becomes crucial.
+* Compensation and cleanup directions possible.
+* Collective community petitions may help.
+
+## 162. Noise pollution
+
+* Noise rules regulate timings and decibel levels.
+* Police and pollution authorities can intervene.
+* Record audio/video evidence.
+* Night-time violations are treated seriously.
+
+## 163. NGT petition
+
+* NGT handles environmental disputes.
+* Petitions require supporting evidence.
+* Relief may include compensation and restoration.
+* Limitation periods apply.
+
+## 164. Coastal zone violation
+
+* CRZ rules regulate coastal construction.
+* Report to coastal authority and pollution board.
+* Satellite imagery and photos help.
+* Demolition orders may occur.
+
+---
+
+# 🛂 IMMIGRATION & PASSPORT
+
+## 165. Passport rejection
+
+* Obtain rejection reason in writing.
+* Police verification disputes may be corrected.
+* Reapplication or appeal may be possible.
+* Supporting documents are critical.
+
+## 166. Visa overstay
+
+* Overstay can attract fines and future visa consequences.
+* Contact FRRO promptly.
+* Avoid concealment.
+* Voluntary compliance improves position.
+
+## 167. OCI rights
+
+* OCI holders enjoy many residency and economic rights.
+* Voting and certain constitutional rights are restricted.
+* Agricultural land purchase restrictions exist.
+* Passport citizenship remains foreign.
+
+## 168. Citizenship renunciation
+
+* Formal declaration process required.
+* Surrender certificate and passport cancellation follow.
+* Dual citizenship rules matter.
+* Penalties may apply for misuse.
+
+## 169. Statelessness
+
+* Legal complexity is high.
+* Documentary correction and judicial remedies may be needed.
+* Human rights protections still apply.
+* Specialized legal support recommended.
+
+## 170. Refugee and asylum
+
+* India lacks a unified refugee statute.
+* UNHCR may play role in some cases.
+* Constitutional protections can still apply.
+* Deportation risks vary by situation.
+
+---
+
+# ✍️ DRAFT DOCUMENTS
+
+## 171-184 General drafting guidance
+
+* Include sender/recipient details.
+* Mention facts chronologically.
+* Cite legal provisions where relevant.
+* State clear demand and deadline.
+* Preserve delivery proof.
+* Use polite but firm language.
+
+Examples include:
+
+* Legal notices
+* Labour complaints
+* RERA complaints
+* Cybercrime complaints
+* RTI applications
+* Banking Ombudsman complaints
+* Affidavits
+* Insurance dispute letters
+
+---
+
+# 📖 EXPLAIN THE LAW
+
+## 185. BNS vs IPC
+
+* BNS modernizes terminology and reorganizes offences.
+* Cyber, organized crime, and terrorism-related aspects expanded.
+* Sedition structure changed.
+* Procedural alignment updated.
+
+## 186. BNSS vs CrPC
+
+* Greater digitalization introduced.
+* Electronic FIR and summons processes strengthened.
+* Timelines and investigation procedures updated.
+* Forensics emphasis increased.
+
+## 187. Court hierarchy
+
+* District courts handle trial matters.
+* High Courts supervise states.
+* Supreme Court is highest constitutional court.
+* Appeals move upward through hierarchy.
+
+## 188. Limitation Act
+
+* Different case types have different filing deadlines.
+* Delay may bar remedy.
+* Some condonation exceptions exist.
+* Immediate legal action is safer.
+
+## 189. Mediation vs arbitration
+
+* Mediation focuses on settlement.
+* Arbitration results in binding award.
+* Litigation involves courts.
+* Choice depends on dispute type.
+
+## 190. Reading legal notices
+
+* Notices usually contain facts, allegations, legal claims, and demands.
+* Ignoring notices may worsen disputes.
+* Timely response is advisable.
+* Preserve envelope and documents.
+
+## 191. Power of Attorney
+
+* POA authorizes another person legally.
+* General and specific POAs differ in scope.
+* Revocation and registration precautions matter.
+* Trustworthiness is critical.
+
+## 192. DPDPA 2023
+
+* Governs personal data processing.
+* Users gain certain data rights.
+* Companies must maintain lawful processing practices.
+* Penalties for non-compliance can be significant.
+
+## 193. Labour Codes
+
+* Labour laws consolidated into four major codes.
+* Wage, industrial relations, safety, and social security structures updated.
+* Full implementation status may vary.
+* Employers and employees both affected.
+
+## 194. Lok Adalat vs court
+
+* Lok Adalat is faster and compromise-oriented.
+* Courts provide formal adjudication.
+* Appeals differ significantly.
+* Suitable dispute types vary.
+
+## 195. Land record types
+
+* Sale deed proves transfer.
+* EC shows registered transaction history.
+* Patta/Khata relate to revenue records.
+* Chitta/Adangal reflect land classification and cultivation details.
+
+## 196. IBC explained
+
+* Insolvency process reorganizes debt resolution.
+* Creditors and resolution professionals play major roles.
+* Timelines exist for corporate insolvency.
+* Liquidation may follow failed resolution.
+
+## 197. Right to Privacy
+
+* Privacy recognized as fundamental right.
+* Impacts surveillance, data use, bodily autonomy.
+* State restrictions require legality and proportionality.
+* Landmark constitutional development.
+
+## 198. PIL explained
+
+* PIL allows public interest issues before constitutional courts.
+* Expanded access to justice significantly.
+* Courts now scrutinize frivolous PILs more carefully.
+* Genuine public harm remains central.
+
+---
+
+# ⚠️ IMPORTANT DISCLAIMER
+
+* These are educational AI-generated legal guidance summaries.
+* Laws vary by facts, jurisdiction, and recent amendments.
+* Serious matters should be reviewed by a qualified advocate.
+* Limitation periods and procedural deadlines are extremely important.
