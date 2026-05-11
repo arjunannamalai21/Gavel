@@ -5403,7 +5403,7 @@
           connectBtnHtml = `<div style="margin-top: 10px; display: flex; gap: 8px">${connectBtnHtml}</div>`;
         }
         return `
-    <div class="lawyer-card ${l.featured ? 'lc-featured' : ''}" onclick="showToast('Connecting with ${l.name}...')">
+    <div class="lawyer-card ${l.featured ? 'lc-featured' : ''}" onclick="">
       <div class="avatar ${l.avClass || 'av-a'}">${l.initials}</div>
       <div class="lc-info">
         <div class="lc-name">${l.name}</div>
@@ -7543,15 +7543,27 @@ IMPORTANT: You are not a substitute for a lawyer. Always recommend consulting a 
         querySnapshot.forEach((docSnap) => {
 
           const data = docSnap.data();
+          const docId = docSnap.id;
 
           const card = document.createElement('div');
           card.className = 'document-card';
-          card.style.cssText = 'background:var(--card2);border:1px solid var(--border);border-radius:12px;padding:12px 14px;margin-top:8px;cursor:pointer;transition:border-color 0.2s;';
+          card.style.cssText = 'background:var(--card2);border:1px solid var(--border);border-radius:12px;padding:12px 14px;margin-top:8px;transition:border-color 0.2s;display:flex;align-items:center;justify-content:space-between;gap:10px;';
           card.innerHTML = `
-            <div class="document-title" style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:3px">${data.title}</div>
-            <div class="document-desc" style="font-size:11px;color:var(--text3)">${data.description || ''}</div>
+            <div style="flex:1;min-width:0;cursor:pointer" class="doc-info">
+              <div class="document-title" style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:3px">${data.title}</div>
+              <div class="document-desc" style="font-size:11px;color:var(--text3)">${data.description || ''}</div>
+            </div>
+            <button class="doc-delete-btn" title="Delete document" style="flex-shrink:0;width:32px;height:32px;border-radius:8px;border:1px solid rgba(224,84,84,0.3);background:rgba(224,84,84,0.08);color:var(--red);display:flex;align-items:center;justify-content:center;cursor:pointer;transition:all 0.2s">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="width:14px;height:14px">
+                <polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/>
+              </svg>
+            </button>
           `;
-          card.addEventListener('click', () => previewDocument(data));
+          card.querySelector('.doc-info').addEventListener('click', () => previewDocument(data));
+          const delBtn = card.querySelector('.doc-delete-btn');
+          delBtn.addEventListener('mouseenter', () => { delBtn.style.background = 'rgba(224,84,84,0.18)'; });
+          delBtn.addEventListener('mouseleave', () => { delBtn.style.background = 'rgba(224,84,84,0.08)'; });
+          delBtn.addEventListener('click', (e) => { e.stopPropagation(); deleteDocument(docId, card); });
           container.appendChild(card);
         });
 
@@ -7560,6 +7572,29 @@ IMPORTANT: You are not a substitute for a lawyer. Always recommend consulting a 
         container.innerHTML = `<div style="font-size:12px;color:var(--red);padding:10px 0">Error loading documents.</div>`;
       }
     }
+
+    /* DELETE DOCUMENT */
+
+    async function deleteDocument(docId, cardEl) {
+      if (!confirm('Delete this document? This cannot be undone.')) return;
+      try {
+        await deleteDoc(doc(dbFS, `legalDocuments/${docId}`));
+        cardEl.style.transition = 'opacity 0.25s';
+        cardEl.style.opacity = '0';
+        setTimeout(() => {
+          cardEl.remove();
+          const container = document.getElementById('documents-container');
+          if (container && !container.querySelector('.document-card')) {
+            container.innerHTML = `<div style="font-size:12px;color:var(--text3);padding:10px 0;text-align:center">No documents saved yet.</div>`;
+          }
+        }, 250);
+        showToast('Document deleted');
+      } catch (err) {
+        console.error(err);
+        showToast('Failed to delete document');
+      }
+    }
+    window.deleteDocument = deleteDocument;
 
     /* PREVIEW DOCUMENT */
 
